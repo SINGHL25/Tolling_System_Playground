@@ -1,4 +1,5 @@
 # Tolling_System_Playground
+<img width="1024" height="1024" alt="Generated Image September 17, 2025 - 5_44AM" src="https://github.com/user-attachments/assets/ae60106e-7341-4bde-9821-3cb437f66b78" />
 
 ```plain text
 Tolling_System_Playground/
