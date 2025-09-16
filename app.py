@@ -714,4 +714,4 @@ elif page == "🔍 IVDC Validation":
         
         total_validations = len(ivdc_records)
         valid_count = len([r for r in ivdc_records if r.validation_status == "VALID"])
-        validation_rate = valid_count / total_validations *
+        #validation_rate = valid_count / total_validations *
